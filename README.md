@@ -1,1 +1,3 @@
-# PrevCOPAssignment
+Bryan Mitchell
+CEN 3024C
+CRN 16046
