@@ -1,3 +1,4 @@
 Bryan Mitchell
 CEN 3024C
 CRN 16046
+Project Description: The program asks for eight names to put into a array list and then it uses a variety of list functions to alter the array list. It sorts and shuffles the array list, searches through the array list for a name, converts the array list into a new array, and converts the array into a new array list. The goal of the project was to learn about collections, such as lists, and functions that can be used to manipulate collections like sort. The expected input is eight names and a name to search for and the expected output is those names in a array list, in a sorted array list, and in a shuffled array list. The program also outputs the index of the name the user searched for, an array created from the array list, and an array list created from the array.
